@@ -42,6 +42,12 @@ nav ul li a{
     color: #f76242;
 }
 
+nav ul li a:hover{
+    text-decoration: underline;
+    font-size: 22px;
+    transition: padding 2s ease-in 2s;
+}
+
 .seções{
     text-align: justify;
     margin: 15px;
